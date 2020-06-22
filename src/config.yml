@@ -1,0 +1,7 @@
+## RegenerateBlocks:
+Time: 100
+Dropped: false
+Worlds:
+    - world
+    - world_nether
+    - world_the_end

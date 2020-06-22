@@ -1,0 +1,10 @@
+name: RegenerateBLocks
+version: 1.1.1
+author: Ematu
+description:
+main: me.ematu.regenerate.Main
+
+commands:
+    tnt:
+       usage: /<command>
+       description: single command
